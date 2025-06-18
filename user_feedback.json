@@ -1,0 +1,56 @@
+[
+  {
+    "input_text": "kashish died today",
+    "prediction": "Real News \u2705",
+    "confidence": "78.12",
+    "correct": false
+  },
+  {
+    "input_text": "i died today ",
+    "prediction": "Real News \u2705",
+    "confidence": "78.12",
+    "correct": false
+  },
+  {
+    "input_text": "i died today",
+    "prediction": "Real News \u2705",
+    "confidence": "78.12",
+    "correct": false
+  },
+  {
+    "input_text": "operation sindoor was a success",
+    "prediction": "Real News \u2705",
+    "confidence": "78.75",
+    "correct": true
+  },
+  {
+    "input_text": "kashish had an a accident today",
+    "prediction": "Real News \u2705",
+    "confidence": "50.42",
+    "correct": false
+  },
+  {
+    "input_text": "kashish had an a accident today",
+    "prediction": "Real News \u2705",
+    "confidence": "50.42",
+    "correct": false
+  },
+  {
+    "input_text": "kashish had an  accident today",
+    "prediction": "Real News \u2705",
+    "confidence": "50.42",
+    "correct": false
+  },
+  {
+    "input_text": "i died today",
+    "prediction": "Real News \u2705",
+    "confidence": "78.12",
+    "correct": false
+  },
+  {
+    "input_text": "kashish died today",
+    "prediction": "Real News \u2705",
+    "confidence": "78.12",
+    "correct": false
+  }
+]
